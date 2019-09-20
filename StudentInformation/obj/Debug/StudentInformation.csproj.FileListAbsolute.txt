@@ -1,0 +1,30 @@
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\Web App Develop .Net\Desktop\b-6\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\dcL\Downloads\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+D:\BITM\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+D:\BITM\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+D:\BITM\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojAssemblyReference.cache
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+D:\BITM\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
